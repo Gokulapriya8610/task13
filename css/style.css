@@ -1,0 +1,266 @@
+.name1{
+	color :red;
+}
+
+
+.name2{
+
+	position: static;
+	background-color: yellow;
+	top: 500px;
+	bottom: 4px;
+	left: 4px;
+	right: 4px;
+}
+.name3{
+	color: green;
+}
+.name4{
+
+	position: relative;
+	background-color: pink;
+	width: 300px;
+  height: 100px;
+	
+}
+.name5{
+	color: red;
+}
+.name6{
+
+	position: absolute;
+	background-color: yellow;
+}
+
+.name7{
+	color: green;
+}
+.name8{
+
+	position: fixed;
+	background-color: pink;
+	/* width: 5; */
+    /* height: 100px; */
+	bottom: 70%;
+}
+
+.name9{
+	color: red;
+}
+.name10{
+
+	position: sticky;
+	background-color: yellow;
+}
+.name11{
+	color: green;
+}
+.name12{
+
+	position: initial;
+	background-color: pink;
+}
+.name13{
+	color: red;
+}
+.name14{
+
+	position: inherit;
+	background-color: yellow;
+}
+.main1{
+	border: 5px solid gray;
+	width: 500px;
+	height:500px;
+}
+.box{
+	width: 100px;
+	height: 100px;
+	color: white;
+	padding: 10px;
+	font-weight: bold;
+}
+.box1{
+	background-color: teal;
+}
+.box2{
+	background-color: tomato;
+}
+.box3{
+	background-color: yellowgreen;
+}
+
+.main2{
+	border: 5px solid gray;
+	width: 500px;
+	height:500px;
+}
+.box{
+	width: 100px;
+	height: 100px;
+	color: white;
+	padding: 10px;
+	font-weight: bold;
+}
+.box4{
+	background-color: teal;
+}
+.box5{
+	background-color: tomato;
+}
+.box6{
+	background-color: yellowgreen;
+}
+
+
+.main3{
+	border: 5px solid gray;
+	width: 500px;
+	height:500px;
+}
+.box{
+	width: 100px;
+	height: 100px;
+	color: white;
+	padding: 10px;
+	font-weight: bold;
+}
+.box7{
+	background-color: teal;
+}
+.box8{
+	background-color: tomato;
+}
+.box9{
+	background-color: yellowgreen;
+}
+
+.main4{
+	border: 5px solid gray;
+	width: 500px;
+	height:500px;
+}
+.box{
+	width: 100px;
+	height: 100px;
+	color: white;
+	padding: 10px;
+	font-weight: bold;
+}
+.box10{
+	background-color: teal;
+}
+.box11{
+	background-color: tomato;
+}
+.box12{
+	background-color: yellowgreen;
+}
+
+.main5{
+	border: 5px solid gray;
+	width: 500px;
+	height:500px;
+}
+.box{
+	width: 100px;
+	height: 100px;
+	color: white;
+	padding: 10px;
+	font-weight: bold;
+}
+.box13{
+	background-color: teal;
+}
+.box14{
+	background-color: tomato;
+}
+.box15{
+	background-color: yellowgreen;
+}
+
+
+.main1{
+	position: static;
+}
+.box1{
+	position: static;
+}
+ .box2{ 
+	position: static;
+}
+.box3{
+	position: static;
+}
+
+
+.main2{
+	position: ;
+}
+.box4{
+	position: relative;
+	left: 50px;
+	top: 70px;
+	/* bottom: -5px; */
+	/* right: 10px; */
+}
+ .box5{ 
+	position: relative;
+	left: 80px;
+	top: 50px;
+}
+.box6{
+	position: relative;
+	left: 50px;
+	top: 25px;
+}
+
+
+.main3{
+	position: relative;
+}
+.box7{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	left: 100px;
+}
+ .box8{ 
+	position: absolute;
+	bottom: 0;
+	right: 0px;
+	left: 30px;
+}
+.box9{
+	position: ;
+}
+
+
+.main4{
+	position: ;
+}
+.box10{
+	position: fixed;
+	top: 400px;
+	right: 300px;
+}
+ .box11{ 
+	position: ;
+}
+.box12{
+	position: ;
+}
+
+
+.main5{
+	position: sticky;
+}
+.box13{
+	position: sticky;
+}
+ /* .box14{  */
+	/* position: sticky; */
+/* } */
+/* .box15{ */
+	/* position: sticky; */
+/* } */
